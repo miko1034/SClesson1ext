@@ -35,5 +35,5 @@ def question7():
     age = int(input("What is your age? "))
     print(f"{name} next birthday you will be {age +1}")
 
-#please i cant do more questions these are just too mund numbingly boring
+#please i cant do more questions these are just too mind numbingly boring
 #womp womp womp
